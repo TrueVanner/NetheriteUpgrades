@@ -1,0 +1,4 @@
+name: NetheriteUpgrades
+version: '${version}'
+main: me.vannername.netheriteupgrades.Main
+api-version: '1.20'
